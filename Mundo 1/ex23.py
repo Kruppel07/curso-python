@@ -1,0 +1,6 @@
+num =(input('Digite um número: '))
+print(f'Analisando o número {num}')
+print('Unidade:', num[0])
+print('Dezena:', num[1] if len(num) >= 2 else 0)
+print('Centena:', num[2] if len(num) >= 3 else 0)
+print('Milhar:', num[3] if len(num) >= 4 else 0)
