@@ -1,5 +1,5 @@
-# Fabio Kelly Fernandes Braz Kruppel
-# Matricula: 2026001
+# Ryggz Lucca Santos Kruppel
+# Matricula: XXXXXX
 # Mini-Trabalho: Sistema de Analise Academica - Algoritmos e Estrutura de Dados
  
 # ===== ENTRADA =====
